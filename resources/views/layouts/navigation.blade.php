@@ -6,7 +6,7 @@
  <!-- Logo -->
 <div class="shrink-0 flex items-center">
     <a href="{{ route('dashboard') }}" class="flex items-center gap-2">
-         <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-12 w-auto">
+         <img src="{{ asset('images/logo.png') }}" alt="Logo" class="h-8 w-auto">
         <span class="font-bold text-xl text-gray-800">INV-SENSOR</span>
     </a>
 </div>
